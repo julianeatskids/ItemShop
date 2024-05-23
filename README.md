@@ -1,12 +1,12 @@
-CID_748_Athena_Commando_F_Hitman, 1500
-CID_397_Athena_Commando_F_TreasureHunterFashion, 1200
-HalloweenScythe, 1200
-na
-na
-na
-CID_300_Athena_Commando_F_Angel, 2000
-Pickaxe_ID_144_Angel, 800
-EID_HipHop01, 1200
-Glider_ID_045_CarbideBlack, 1200
-CID_369_Athena_Commando_F_DevilRock, 2000
-Pickaxe_ID_176_DevilRock, 1200
+BID_273_AssassinSuitCoin 200
+Pickaxe_ID_294_CandyCane 500
+EID_CycloneHeadBang 300
+ EID_ArtGiant 1000
+ EID_TakeTheL 400
+ EID_GoodVibes 500
+CID_725_Athena_Commando_F_AgentX 1000
+EID_JumpStyleDance 200
+CID_606_Athena_Commando_F_JetSki 500
+EID_BlackMondayFemale_6HO4L 1000
+CID_530_Athena_Commando_F_BlackMonday_1BV6J 1500
+EID_LasagnaDance 500
